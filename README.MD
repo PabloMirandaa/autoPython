@@ -20,7 +20,8 @@ Em seguida use o comando "from mouseinfo import mouseInfo"
 Por fim utilize o comando mouseInfo()
 '''
 
-# Exemplo:
+# Video Exemplo:
 '''
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wBRZwiVvR2U?si=ns5-2DmVqpU0juxS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Link do video de exemplo do funcionamento:
+https://youtu.be/wBRZwiVvR2U?si=trYrc6SirvK8Hepe
 '''
